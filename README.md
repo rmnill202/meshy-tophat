@@ -3,6 +3,8 @@ Here be files for my Meshlicious tophat design, as well as a 240/280mm rad mount
 
 The tophat is only compatible with the **EK 3080 Founders Edition waterblock**, but if this gets popular enough (or if you feel so inclined to do so yourself) then more general support may appear in the future.
 
+Full image gallery here: https://imgur.com/a/yDPhRic
+
 ![Pretttyyyy](images/meshy.jpeg)
 
 ## Credits!
